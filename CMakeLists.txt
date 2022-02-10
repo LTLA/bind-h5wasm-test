@@ -19,7 +19,7 @@ FetchContent_MakeAvailable(tatami)
 FetchContent_Declare(
   h5wasm
   GIT_REPOSITORY https://github.com/LTLA/h5wasm-cmake-demo
-  GIT_TAG e259d73ffd68acd2850fde7b413e7ca00cc751f4
+  GIT_TAG 8c5ebc8c7a747d9120e8a6fe8358e5d6c27d38e9
 )
 FetchContent_MakeAvailable(h5wasm)
 
